@@ -8,7 +8,7 @@ function App() {
   return (
     <div className="container" style={{backgroundColor: 'white'}}>
       <div className="mg20">
-        <Typography variant="h6">Upload de imagens com React.js, ASP.NET Core e Amazon S3</Typography>
+        <Typography variant="h6">Image Upload with React.js, ASP.NET Core and Azure Blob Storage</Typography>
       </div>
 
       <UploadImages />

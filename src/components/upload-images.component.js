@@ -78,7 +78,7 @@ export default class UploadImages extends Component {
         console.log(err);
         this.setState({
           progress: 0,
-          message: "Não foi possível realizar o Upload da imagem!",
+          message: "Unable to upload image!",
           currentFile: undefined,
           isError: true
         });
@@ -110,7 +110,7 @@ export default class UploadImages extends Component {
             variant="contained"
             style={{backgroundColor: '#4caf50', color: 'white'}}
             component="span" >
-              Escolher Imagem
+              Choose Image
           </Button>
         </label>
         <div className="file-name">
