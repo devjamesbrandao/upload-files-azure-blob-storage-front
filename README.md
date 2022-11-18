@@ -4,5 +4,5 @@
 
 # Demo do projeto
 
-![](https://github.com/devjamesbrandao/upload-files-azure-blob-storage-front/blob/main/imgs/upload.gif)
+![](https://github.com/devjamesbrandao/upload-files-azure-blob-storage-front/blob/main/imgs/demo-project.gif)
 
